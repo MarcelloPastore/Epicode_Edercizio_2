@@ -16,6 +16,9 @@
     border-width: 1px;
     border-color: chocolate;
 }
+.fontTop{
+    font-weight: bold;
+}
 
 .Body {
     display: flex;
