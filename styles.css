@@ -1,0 +1,84 @@
+.Header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.Logo {
+    width: 180px;
+}
+
+.Top {
+    display: flex;
+    background-color: wheat;
+    justify-content: center;
+    border-top-style: solid;
+    border-width: 1px;
+    border-color: chocolate;
+}
+
+.Body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    font-family: "Times New Roman", Times, serif;
+
+}
+.Titolo {
+    text-align: center;
+    width: 670px;
+
+}
+
+.Main {
+    display: flex;
+    flex-direction: column;
+    /* ddd */
+}
+
+.Focaccia {
+    box-shadow: 10px 10px 20px grey;
+    border-radius: 25px;
+}
+.Testo {
+    width: 720px;
+}
+.Sottotesto {
+    text-align: center;
+    color: rgb(160, 160, 160);
+}
+.Feat{
+    border-left-style: solid;
+    border-color: goldenrod;
+    border-width: 1px;
+    padding-left: 10px;
+}
+.Feat_1 {
+    margin: 0;
+    color: darkgoldenrod;
+}
+.Feat_2 {
+    color: rgb(30, 145, 140);
+}
+.Sottotitolo{
+    border-bottom-style: solid;
+    border-color: aqua;
+    border-width: 1px;
+    padding-bottom: 20px;
+    /* font-family: "Times New Roman", Times, serif; */
+}
+
+.Lista_1 {
+    width: 600px;
+    /* font-family: "Times New Roman", Times, serif; */
+}
+.Lista_2 {
+    width: 600px;
+    margin-top: 0;
+    font-family: "Times New Roman", Times, serif;
+    
+}
+.Link_F {
+    color: rgb(30, 145, 140);
+}
